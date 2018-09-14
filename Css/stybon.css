@@ -1,0 +1,70 @@
+html,body{margin: 0;padding: 0 ; width: 100%;height: 100%}
+body{
+    background-image: url("../imagess/FontimgBon.jpg");
+    background-color: #022941;
+    background-size: cover;
+    overflow: hidden;
+}
+canvas {
+    position:absolute;
+    left:450px;
+    top:100px;
+    width:780px;
+    height:550px;
+}
+#aliensCanvas {
+    background-image: url("../imagess/asteroid-home.gif");
+}
+#gunraysCanvas {
+    background-color:transparent;
+}
+#scoreDiv, #alivesDiv, #levelDiv{
+    position:absolute;
+    top:100px;
+    left:1450px;
+    
+}
+#score, #alives, #level {
+    display:block;
+    width:90px;
+    height:30px;
+    border:2px solid #333;
+    border-radius:7px 7px 7px;
+    text-align:center;
+    font-size: 25px;
+    line-height:30px;
+    color: black;
+    background-color: white;
+
+}
+
+#scoreDiv {
+    top:160px;
+    color: white;
+}
+#alivesDiv {
+    top:320px;
+    color: white;
+}
+h2 {
+    margin:0;
+    color: white;
+}
+h1{
+    color: white;
+}
+button{
+    position: absolute;
+    left:1450px;
+    top: 500px;
+    width: 150px;
+    height: 50px;
+    font-size: 21px;
+    font-family: "Segoe UI";
+    border-radius: 50px;
+    background-color: #022941;
+}
+a{
+    color: white;
+    text-decoration: none;
+}

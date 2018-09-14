@@ -1,0 +1,105 @@
+html,body{margin: 0;padding: 0 ; width: 100%;height: 100%}
+body{
+    background-image: url("../imagess/FontimgBon.jpg");
+    background-color: #022941;
+    background-size: cover;
+    overflow: hidden;
+}
+#op{
+    position: absolute;
+    color: white;
+    margin-top: 0%;
+    margin-left:15% ;
+    font-size: 10em;
+    font-family: "Segoe UI";
+}
+#inv
+{
+    position: absolute;
+    color: white;
+    margin-top: 10%;
+    margin-left:25% ;
+    font-size: 10em;
+    font-family: "Segoe UI";
+}
+#sp{
+    position: absolute;
+    color: white;
+    margin-top: 20%;
+    margin-left:35% ;
+    font-size: 10em;
+    font-family: "Segoe UI";
+}
+button{
+    position: absolute;
+    color: white;
+    margin-top: 38%;
+    margin-left:30% ;
+    width: 40%;
+    height: 10%;
+    font-size: 2em;
+    background-color: #082641;
+    font-family: "Segoe UI";
+}
+/* Css sur la page  accueil*/
+#txt{
+    position: absolute;
+    color: white;
+    margin-top: 0%;
+    margin-left:23% ;
+    font-size: 10em;
+    font-family: "Segoe UI";
+}
+#opt1{
+     position: absolute;
+     margin-top: 20%;
+     margin-left:15% ;
+     border-radius: 100px;
+     width: 30%;
+     height: 30%;
+ }
+#opt1 img{
+    position: absolute;
+    background-color: #022941;
+    margin-top: 2%;
+    margin-left:35% ;
+    border-radius: 100px;
+    width: 120px;
+    height: 120px;
+}
+#dem{
+    position: absolute;
+    margin-top: 30%;
+    margin-left:25% ;
+    font-family: "Segoe UI";
+    font-size: 2em;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+#opt2{
+    position: absolute;
+    margin-top: 20%;
+    margin-left:50% ;
+    border-radius: 100px;
+    width: 30%;
+    height: 30%;
+}
+#opt2 img{
+    position: absolute;
+    background-color: #022941;
+    margin-top: 2%;
+    margin-left:35% ;
+    border-radius: 100px;
+    width: 120px;
+    height: 120px;
+}
+#aid{
+    position: absolute;
+    margin-top: 30%;
+    margin-left:62.5% ;
+    font-family: "Segoe UI";
+    font-size: 2em;
+}
